@@ -11,6 +11,7 @@ public class lab4 {
         person1.setAge(19);
         person1.setEmail("ceva@gmail.com");
         profesor1.setNume("Gigel");
+
     }
 
     public static void problema1(String cuvant){
