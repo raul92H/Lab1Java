@@ -60,4 +60,5 @@ public class Employee {
         int income = calculateDailyIncome() * (20 - this.freeDay);
         System.out.println(income);
     }
+    //
 }

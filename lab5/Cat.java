@@ -66,4 +66,5 @@ public class Cat {
         System.out.printf("Miau  \nEnergy: %d  Hunger: %d  Mood: %d", energyLevel, hungerLevel, moodLevel);
 
     }
+    //
 }
